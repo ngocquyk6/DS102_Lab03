@@ -6,6 +6,7 @@ Lab03_DS102
   Train and Evaluate that Linear Regression model on the Forest Fires dataset.
 
 Ý tưởng thực hiện
+
   Sử dụng lớp `LinearRegression` tự cài đặt trong `Linear_regression.py`.
   Ước lượng trọng số bằng công thức **Normal Equation**:
 
